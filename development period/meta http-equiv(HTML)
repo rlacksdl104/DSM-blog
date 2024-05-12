@@ -1,0 +1,4 @@
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+http-equiv = meta태그의 http-equiv속성은 content 속성에 명시된 값에 대한 해더를 제공함
+-> http-equiv 속성이 명시되어 있다면 반드시 content 속성도 함께 명시되어야함
