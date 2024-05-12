@@ -8,9 +8,9 @@ content-type : 해당 문서의 문자 인코딩 방식을 명시함.
 ex) <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 
 default-type : 우선적으로 적용할 스타일시트를 명시함.
-content 속성값은 동일한 문서에 존재하는 link 요소의 title 속성값과 일치하거나, 동일한 문서에 존재하는 style 요소의 title 속성값과 일치해야만 합니다.
+content 속성값은 동일한 문서에 존재하는 link 요소의 title 속성값과 일치하거나, 동일한 문서에 존재하는 style 요소의 title 속성값과 일치해야만 함
 ex) <meta http-equiv="default-style" content="preferred stylesheet">
 
-refresh : 해당 문서를 새로고침(refresh)할 시간 간격을 명시함.
-refresh 속성값은 사용자로부터 페이지에 대한 제어를 빼앗아오기 때문에 <strong>주의를 기울여 사용<strong>해야 합니다.
+refresh : 해당 문서를 새로고침(refresh)할 시간 간격을 명시함
+refresh 속성값은 사용자로부터 페이지에 대한 제어를 빼앗아오기 때문에 주의를 기울여 사용해야 함
 ex) <meta http-equiv="refresh" content="30">
